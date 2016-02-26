@@ -1,0 +1,40 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;Transducer is a device&lt;&lt;&#10;     ( ) that converts one form of energy into another form&#10;     ( ) has mostly eletrical output&#10;     (x) with both the above properties&#10;     &#10;[explanation]&#10;The release of the iPod allowed consumers to carry their entire music library with them in a format that did not rely on fragile and energy-intensive spinning disks.&#10;[explanation]&#10;&#10;&gt;&gt;Temperature is measure of degree of -------- of a substance&lt;&lt;&#10;     ( ) Hotness&#10;     ( ) Coldness&#10;     (x) Hotness or Coldness&#10;     &#10;[explanation]&#10;The release of the iPod allowed consumers to carry their entire music library with them in a format that did not rely on fragile and energy-intensive spinning disks.&#10;[explanation]&#10;">
+<p>Transducer is a device</p>
+<multiplechoiceresponse>
+  <choicegroup label="Transducer is a device" type="MultipleChoice">
+    <choice correct="false">that converts one form of energy into another form</choice>
+    <choice correct="false">has mostly eletrical output</choice>
+    <choice correct="true">with both the above properties</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The release of the iPod allowed consumers to carry their entire music library with them in a format that did not rely on fragile and energy-intensive spinning disks.</p>
+
+</div>
+</solution>
+
+<p>Temperature is measure of degree of -------- of a substance</p>
+<multiplechoiceresponse>
+  <choicegroup label="Temperature is measure of degree of -------- of a substance" type="MultipleChoice">
+    <choice correct="false">Hotness</choice>
+    <choice correct="false">Coldness</choice>
+    <choice correct="true">Hotness or Coldness</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+     
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The release of the iPod allowed consumers to carry their entire music library with them in a format that did not rely on fragile and energy-intensive spinning disks.</p>
+
+</div>
+</solution>
+
+</problem>
