@@ -1,0 +1,14 @@
+<course advertised_start="Anytime" display_name="Chemical Engineering" end="&quot;2016-05-31T02:00:00+00:00&quot;" enrollment_end="&quot;2016-05-31T00:00:00+00:00&quot;" enrollment_start="&quot;2016-04-01T00:00:00+00:00&quot;" language="en" start="&quot;2016-04-01T00:00:00+00:00&quot;">
+  <chapter url_name="Introduction"/>
+  <chapter url_name="Flow_measurement_by_orificemeter_and_venturimeter"/>
+  <chapter url_name="Gas_Liquid_Absorption"/>
+  <chapter url_name="Two_Phase_Flow_in_Horizontal_Tubes"/>
+  <chapter url_name="Hydrodynamics_of_packed_column"/>
+  <chapter url_name="Nature_of_Flow"/>
+  <chapter url_name="Adiabatic_calorimetry"/>
+  <chapter url_name="Flow_through_fittings"/>
+  <chapter url_name="Heat_transfer_in_a_double_pipe_heat_exchanger"/>
+  <chapter url_name="Vapour_Liquid_Equilibrium"/>
+  <chapter url_name="Ebulliometric_Determination_of_Vapour_Pressure"/>
+  <wiki slug="IITB.CHEM01.Anytime"/>
+</course>

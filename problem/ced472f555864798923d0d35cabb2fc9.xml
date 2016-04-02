@@ -1,39 +1,30 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;RTD is very popular for temperature measurement because of&lt;&lt;&#10;     ( ) Cost&#10;     ( ) Self Heating&#10;     (x) Linearity&#10;     &#10;[explanation]&#10;The release of the iPod allowed consumers to carry their entire music library with them in a format that did not rely on fragile and energy-intensive spinning disks.&#10;[explanation]&#10;&#10;&gt;&gt;In the Pt100, the suffix 100 refers to&lt;&lt;&#10;     ( ) Resistance at Room Temperature&#10;     ( ) 100% pure platinum&#10;     (x) Resistance at 0 degree C&#10;     &#10;[explanation]&#10;The release of the iPod allowed consumers to carry their entire music library with them in a format that did not rely on fragile and energy-intensive spinning disks.&#10;[explanation]">
-<p>RTD is very popular for temperature measurement because of</p>
-<multiplechoiceresponse>
-  <choicegroup label="RTD is very popular for temperature measurement because of" type="MultipleChoice">
-    <choice correct="false">Cost</choice>
-    <choice correct="false">Self Heating</choice>
-    <choice correct="true">Linearity</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-     
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>The release of the iPod allowed consumers to carry their entire music library with them in a format that did not rely on fragile and energy-intensive spinning disks.</p>
-
-</div>
-</solution>
-
-<p>In the Pt100, the suffix 100 refers to</p>
-<multiplechoiceresponse>
-  <choicegroup label="In the Pt100, the suffix 100 refers to" type="MultipleChoice">
-    <choice correct="false">Resistance at Room Temperature</choice>
-    <choice correct="false">100% pure platinum</choice>
-    <choice correct="true">Resistance at 0 degree C</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-     
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>The release of the iPod allowed consumers to carry their entire music library with them in a format that did not rely on fragile and energy-intensive spinning disks.</p>
-
-</div>
-</solution>
+  <p>RTD is very popular for temperature measurement because of</p>
+  <multiplechoiceresponse>
+    <choicegroup label="RTD is very popular for temperature measurement because of" type="MultipleChoice">
+      <choice correct="false">Cost</choice>
+      <choice correct="false">Self Heating</choice>
+      <choice correct="true">Linearity</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The release of the iPod allowed consumers to carry their entire music library with them in a format that did not rely on fragile and energy-intensive spinning disks.</p>
+    </div>
+  </solution>
+  <p>In the Pt100, the suffix 100 refers to</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In the Pt100, the suffix 100 refers to" type="MultipleChoice">
+      <choice correct="false">Resistance at Room Temperature</choice>
+      <choice correct="false">100% pure platinum</choice>
+      <choice correct="true">Resistance at 0 degree C</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The release of the iPod allowed consumers to carry their entire music library with them in a format that did not rely on fragile and energy-intensive spinning disks.</p>
+    </div>
+  </solution>
 </problem>

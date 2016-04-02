@@ -1,21 +1,16 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;Temperature is measure of degree of -------- of a substance&lt;&lt;&#10;     ( ) Hotness&#10;     ( ) Coldness&#10;     (x) Hotness or Coldness&#10;     &#10;[explanation]&#10;Provide Explanation&#10;[explanation]&#10;">
-<p>Temperature is measure of degree of -------- of a substance</p>
-<multiplechoiceresponse>
-  <choicegroup label="Temperature is measure of degree of -------- of a substance" type="MultipleChoice">
-    <choice correct="false">Hotness</choice>
-    <choice correct="false">Coldness</choice>
-    <choice correct="true">Hotness or Coldness</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-     
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Provide Explanation</p>
-
-</div>
-</solution>
-
+  <p>Temperature is measure of degree of -------- of a substance</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Temperature is measure of degree of -------- of a substance" type="MultipleChoice">
+      <choice correct="false">Hotness</choice>
+      <choice correct="false">Coldness</choice>
+      <choice correct="true">Hotness or Coldness</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Provide Explanation</p>
+    </div>
+  </solution>
 </problem>
