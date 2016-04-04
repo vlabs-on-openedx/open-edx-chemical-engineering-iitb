@@ -1,5 +1,5 @@
 * Chemical Engineering
-** Steps to importing a new course on edX studio
+** Steps to importing the course on edX studio
 - Log in to edX studio.(URL: http://edx-courses.vlabs.ac.in:18010)
 - Click on =New Course= button to create the course
 - Fill the course name : Chemical Engineering
