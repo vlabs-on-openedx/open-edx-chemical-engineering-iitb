@@ -1,0 +1,53 @@
+{
+    "course/course": {
+        "advertised_start": "Anytime", 
+        "course_image": "IIB-Chemical Engineering.JPG", 
+        "discussion_topics": {
+            "General": {
+                "id": "i4x-IIT-Bombay-IIT-B01-course-IIT-B01"
+            }
+        }, 
+        "display_name": "Chemical Engineering", 
+        "end": null, 
+        "enrollment_end": null, 
+        "enrollment_start": null, 
+        "instructor_info": {
+            "instructors": []
+        }, 
+        "language": "en", 
+        "learning_info": [], 
+        "start": "2016-09-29T00:00:00Z", 
+        "tabs": [
+            {
+                "name": "Home", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
+    }
+}
