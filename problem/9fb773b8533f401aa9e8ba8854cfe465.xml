@@ -1,20 +1,16 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;Transducer is a device&lt;&lt;&#10;     ( ) That converts one form of energy into another form&#10;     ( ) Has mostly eletrical output&#10;     (x) With both the above properties&#10;     &#10;[explanation]&#10;Give Explanation&#10;[explanation]">
-<p>Transducer is a device</p>
-<multiplechoiceresponse>
-  <choicegroup label="Transducer is a device" type="MultipleChoice">
-    <choice correct="false">That converts one form of energy into another form</choice>
-    <choice correct="false">Has mostly eletrical output</choice>
-    <choice correct="true">With both the above properties</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-     
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
+  <p>Transducer is a device</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Transducer is a device" type="MultipleChoice">
+      <choice correct="false">That converts one form of energy into another form</choice>
+      <choice correct="false">Has mostly eletrical output</choice>
+      <choice correct="true">With both the above properties</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
 </problem>
