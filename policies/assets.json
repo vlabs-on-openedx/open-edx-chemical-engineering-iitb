@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CHEM01", 
+            "course": "chemengg04", 
             "name": "IIB-Chemical_Engineering.JPG", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IIB-Chemical Engineering.JPG", 
-        "filename": "asset-v1:IIT-Bombay+CHEM01+Anytime+type@asset+block@IIB-Chemical_Engineering.JPG", 
+        "filename": "asset-v1:Virtual-Labs+chemengg04+Anytime+type@asset+block@IIB-Chemical_Engineering.JPG", 
         "import_path": "IIB-Chemical Engineering.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIT-Bombay", 
-            "CHEM01", 
+            "Virtual-Labs", 
+            "chemengg04", 
             "thumbnail", 
             "IIB-Chemical_Engineering-JPG.jpg", 
             null
@@ -27,21 +27,21 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "CHEM01", 
+            "course": "chemengg04", 
             "name": "icons_Chemical_Engineering.png", 
-            "org": "IIT-Bombay", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "icons_Chemical Engineering.png", 
-        "filename": "asset-v1:IIT-Bombay+CHEM01+Anytime+type@asset+block@icons_Chemical_Engineering.png", 
+        "filename": "asset-v1:Virtual-Labs+chemengg04+Anytime+type@asset+block@icons_Chemical_Engineering.png", 
         "import_path": "icons_Chemical Engineering.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIT-Bombay", 
-            "CHEM01", 
+            "Virtual-Labs", 
+            "chemengg04", 
             "thumbnail", 
             "icons_Chemical_Engineering-png.jpg", 
             null
