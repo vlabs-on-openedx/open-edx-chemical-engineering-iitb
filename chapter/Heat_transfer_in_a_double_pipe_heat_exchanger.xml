@@ -1,8 +1,8 @@
 <chapter display_name="Heat transfer in a double pipe heat exchanger">
   <sequential url_name="Heat_transfer_in_a_double_pipe_heat_exchanger_Aim"/>
-  <sequential url_name="Heat_transfer_in_a_double_pipe_heat_exchanger_Pre_Test"/>
   <sequential url_name="Heat_transfer_in_a_double_pipe_heat_exchanger_Theory"/>
-  <sequential url_name="Heat_transfer_in_a_double_pipe_heat_exchanger_Simulator"/>
   <sequential url_name="Heat_transfer_in_a_double_pipe_heat_exchanger_Procedure"/>
+  <sequential url_name="Heat_transfer_in_a_double_pipe_heat_exchanger_Pre_Test"/>
+  <sequential url_name="Heat_transfer_in_a_double_pipe_heat_exchanger_Simulator"/>
   <sequential url_name="aa2fdfe49e104e57816b544b5de5d2cf"/>
 </chapter>
